@@ -1,7 +1,7 @@
 # Loopback-Wave-for-A1111-Webui
 Img2img Loopback with Denoise controls over designated frames.
 
-*Disclaimer: I am not the original author of this script. This was originally by an anonymous user on 4chan I came across during my early months exploring animations in SD.*
+*Disclaimer: I am not the original author of this script. This was originally by an anonymous user on 4chan I came across during my early months exploring animations in SD. There is no "official" repo, only the rentry page linked in this README*
 
 ![yGUEhcG](https://user-images.githubusercontent.com/46942135/232080320-a53a5373-14ef-40b8-99c7-3ae97141cc33.gif)
 
