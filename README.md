@@ -1,5 +1,5 @@
 # Loopback-Wave-for-A1111-Webui
-Img2img Loopback with Denoise controls over designated frames.
+Img2img Loopback with Denoise controls over designated frames. This is the original code for Stable Diffusion Webui Versions before the directory changes.
 
 *Disclaimer: I am not the original author of this script. This was originally by an anonymous user on 4chan I came across during my early months exploring animations in SD. There is no "official" repo, only the rentry page linked in this README*
 
